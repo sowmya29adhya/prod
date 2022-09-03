@@ -9,5 +9,3 @@ ansible with k8s
 security group, subnet, Nacl
 vpc ec2 ebs eks s3
 route 53
-OS layer auto scale
-ELB ALB NLB CLB
